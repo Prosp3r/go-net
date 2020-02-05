@@ -11,6 +11,8 @@
 coverage.txt
 *.coverprofile
 
+# IDE files
+*.code-workspace
 # Misc
 .DS_Store
 tags
